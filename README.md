@@ -55,3 +55,21 @@ Evaluate Accuracy:
 ```
 python LogisticRegression/logreg_accuracy.py
 ```
+## Requirements
+Recent version of python 3
+### Libraries:
+- json: For handling JSON data.
+- pandas: For data manipulation and analysis.
+- matplotlib: For data visualization.
+- numpy: For numerical operations.
+- subprocess: For managing system processes.
+- scikit-learn (StandardScaler, MinMaxScaler): For feature scaling.
+- seaborn: For enhanced data visualization.
+You can install these libraries using:
+```
+pip install json pandas matplotlib numpy subprocess scikit-learn seaborn
+```
+Or:
+```
+python3 -m pip install json pandas matplotlib numpy subprocess scikit-learn seaborn
+```
