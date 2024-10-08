@@ -73,3 +73,5 @@ Or:
 ```
 python3 -m pip install json pandas matplotlib numpy subprocess scikit-learn seaborn
 ```
+#
+*This project is inspired by the "DSLR" assignment from my curriculum at 42 School.*
